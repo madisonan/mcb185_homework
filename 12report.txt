@@ -1,0 +1,14 @@
+Thu Jan 18 14:50:36 PST 2024
+user: madisonan, 
+home: /Users/madisonan, 
+shell: /bin/zsh, 
+pwd: /Users/madisonan/Code/mcb185_homework, 
+path: /Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin
+Darwin campus-101-160.ucdavis.edu 23.2.0 Darwin Kernel Version 23.2.0: Wed Nov 15 21:53:34 PST 2023; root:xnu-10002.61.3~2/RELEASE_ARM64_T8103 arm64
+Python 3.12.0
+/Users/madisonan/Code
+/Users/madisonan/Code/mcb185_homework
+/Users/madisonan/Code/mcb185_homework/.git
+/Users/madisonan/Code/MCB185
+/Users/madisonan/Code/MCB185/.git
+/Users/madisonan/Code/MCB185/data
