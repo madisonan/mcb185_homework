@@ -9,7 +9,7 @@ gunzip -c ~/Code/MCB185/data/dictionary.gz | grep "c" | grep -v "[befghjklpqrstu
 gunzip -c ~/Code/MCB185/data/dictionary.gz | grep "z" | grep -v "[bcdefhjklmpqstuvwxy]" | grep -E ".{4,}" | wc -l
 gunzip -c ~/Code/MCB185/data/dictionary.gz | grep "z" | grep -v "[bcdefhjklmpqstuvwxy]" | grep -E ".{4,}"
 
-gunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | echo "diatoms | gregunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | grep "diatoms" | grep wc -l
+gunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | grep "diatoms" | grep wc -l
 gunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | grep "urochordates" | grep wc -l
 gunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | grep "nematodes" | grep wc -l
 gunzip -c ~/Code/MCB185/data/jaspar2024_core.transfac.gz | grep "fungi" | grep wc -l
