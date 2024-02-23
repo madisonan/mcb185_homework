@@ -17,5 +17,6 @@ Notes:
 1. O.5 from asking question in discord
 2. 1.5 points from asking two questions in discord and answering one question in discord
 3. 1 point from taking the course policy quiz that week
-+ points from unit 1-4 are copied from canvas submissions
 4. co-authored with same student from before on 3 programs
+
++ points from unit 1-4 are copied from canvas submissions
