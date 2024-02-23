@@ -14,7 +14,7 @@
 | 9 |
 
 Notes:
-1. O.5 from asking question in discord
+1. 0.5 from asking question in discord
 2. 1.5 points from asking two questions in discord and answering one question in discord
 3. 1 point from taking the course policy quiz that week
 4. co-authored with same student from before on 3 programs
