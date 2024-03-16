@@ -77,13 +77,11 @@ print(json.dumps(kloc, indent = 4))
 # for 85: find cords in gff file from splice sites
 
 """
-
 oligo = {
 	'Name': 'S0116',
-	'Length': 18.
+	'Length': 18,
 	'Sequence': 'ATTAGGTGACACTATAG',
 	'Description': 'SP6 promoter sequencing primer'}
-
 catalog = []
 catalog.append(oligo)
 
@@ -104,4 +102,4 @@ def read_catalog(filepath):
 
 catalog = read_catalog('primers.csv')
 for primer in catalog:
-	print(primter['Name'], primer['Description'])
+	print(primer['Name'], primer['Description'])
